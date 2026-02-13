@@ -1,0 +1,12 @@
+{
+  "name": "reclaim-your-data-client",
+  "version": "0.1.0",
+  "scripts": {
+    "build:css": "lessc src/less/main.less public/css/style.css",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "less": "^4.2.0",
+    "@playwright/test": "^1.49.0"
+  }
+}
