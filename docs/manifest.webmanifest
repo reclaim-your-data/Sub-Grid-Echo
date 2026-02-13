@@ -1,0 +1,9 @@
+{
+  "name": "Reclaim Your Data Client",
+  "short_name": "Sub-Grid-Echo",
+  "start_url": "/Sub-Grid-Echo/",
+  "display": "standalone",
+  "background_color": "#fdf6e3",
+  "theme_color": "#222222",
+  "icons": []
+}
